@@ -1,4 +1,3 @@
-[sito.html](https://github.com/user-attachments/files/24845735/sito.html)
 <!DOCTYPE html>
 <html lang="it">
 <head>
@@ -246,7 +245,7 @@
                         <h3>Lecco e Provincia</h3>
                         <p>Visita la splendida <strong>Basilica di San Pietro al Monte</strong> a Civate e scopri l'eleganza sobria della <strong>Chiesa dei Santi Nazaro e Celso</strong> a Bellano, gioiello del Lario.</p>
                     </div>
-                    <a href="https://lcis002005-my.sharepoint.com/..." class="btn-card" target="_blank">Scopri di più</a>
+                    <a href="" class="btn-card" target="_blank">Scopri di più</a>
                 </div>
 
                 <div class="card">
